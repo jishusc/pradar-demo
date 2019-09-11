@@ -1,0 +1,8 @@
+测试pradar
+-javaagent:D:\wsc\sto_doc\pradar-agent-test-1.7.4\pradar-agent\agent\boot\transmittable-thread-local-2.10.2.jar
+-javaagent:D:\wsc\sto_doc\pradar-agent-test-1.7.4\pradar-agent\agent\pradar-core-ext-bootstrap-1.0.0.jar
+-Dpradar.project.name=pradar-demo
+
+-javaagent:/opt/pradar-agent/agent/boot/transmittable-thread-local-2.10.2.jar
+-javaagent:/opt/pradar-agent/agent/pradar-core-ext-bootstrap-1.0.0.jar
+-Dpradar.project.name=pradar-demo
