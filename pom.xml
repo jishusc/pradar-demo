@@ -28,7 +28,7 @@
 		<dependency>
 			<groupId>com.pamirs</groupId>
 			<artifactId>maxplanck-base</artifactId>
-			<version>1.0.0-ext6</version>
+			<version>1.1.4</version>
 			<scope>provided</scope>
 		</dependency>
 
